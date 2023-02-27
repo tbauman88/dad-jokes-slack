@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "vehikl": {
+      "name": "vehikl",
+      "app_id": "A04S7GN6W6L",
+      "team_id": "T0261211E",
+      "IsDev": false
+    }
+  },
+  "default": "vehikl"
+}
